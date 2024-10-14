@@ -1,59 +1,151 @@
-## Introduction
+--- task ---
+## Apple vs Tomato
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Use Machine Learning for Kids to make an ML classifier that tells apples from tomatoes!
 
-### What you will make
+Explore this project [here](rpf.io/avt){:target="_blank"}.
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+--- /task ---
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+--- task ---
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+## Prompt an AI Image Generator
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+Learn how to reliably prompt AI image generators to get exactly what you want!
 
-+ A computer or tablet capable of running Scratch 3
+Explore this project [here](rpf.io/ai-image-prompt){:target="_blank"}.
 
-### Software
+--- /task ---
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+--- task ---
 
-### Downloads
+## Chomp the cheese
 
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+Use a Machine vision model and your webcam to track and eat virtual cheese!
 
---- /collapse ---
+Explore this project [here](rpf.io/chomp){:target="_blank"}.
 
---- collapse ---
----
-title: What you will learn
----
+--- /task ---
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
+--- task ---
 
---- /collapse ---
+## Dance detector
 
---- collapse ---
----
-title: Additional information for educators
----
+Use micro:bits and Machine Learning to detect when someone is dancing!
 
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
+Explore this project [here](rpf.io/dance){:target="_blank"}.
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
+--- /task ---
 
---- /collapse ---
+--- task ---
+
+## Dinosaur decision tree
+
+Learn how ML classifiers use decision trees by creating your own dinosaur decision tree!
+
+Explore this project [here](rpf.io/dinodecisions){:target="_blank"}.
+
+--- /task ---
+
+--- task ---
+
+## Run an AI Image Generator on your Raspberry Pi
+
+Set up an AI image generator on your Raspberry Pi and create your own unique artwork.
+
+Explore this project [here](rpf.io/run-ai-pi){:target="_blank"}.
+
+--- /task ---
+
+--- task ---
+
+## Run a Large Language Model on your Raspberry Pi
+
+Set up a Large Language Model on your Raspberry Pi and explore how it can generate text.
+
+Explore this project [here](rpf.io/run-llm-pi){:target="_blank"}.
+
+--- /task ---
+
+--- task ---
+
+## Teach a machine
+
+Use ML to teach a computer to tell you how many objects it can see!
+
+Explore this project [here](rpf.io/tam){:target="_blank"}.
+
+--- /task ---
+
+
+--- task ---
+## Prompting a large language model
+
+Learn how to reliably prompt Large Language Models to get the best results!
+
+Explore this project [here](rpf.io/llmprompt){:target="_blank"}.
+
+--- /task ---
+
+
+--- task ---
+
+## AI-generated images
+
+Learn how to generate and tweak images using the power of AI!
+
+Explore this project [here](rpf.io/ai-image){:target="_blank"}.
+
+--- /task ---
+
+
+--- task ---
+
+## Fish food
+
+Train a machine learning model to recognise virtual fish!
+
+Explore this project [here](rpf.io/fish){:target="_blank"}.
+
+--- /task ---
+
+
+--- task ---
+
+## Alien language
+
+Train a machine learning model to recognise words in an alien language!
+
+Explore this project [here](rpf.io/alienlanguage){:target="_blank"}.
+
+--- /task ---
+
+--- task ---
+
+## Smart assistant
+
+Use ML to make a smart virtual classroom assistant!
+
+Explore this project [here](rpf.io/smarta){:target="_blank"}.
+
+--- /task ---
+
+--- task ---
+
+## Doodle detector
+
+Train a machine learning model to recognise your doodles!
+
+Explore this project [here](rpf.io/doodle){:target="_blank"}.
+
+--- /task ---
+
+--- task ---
+
+## Did you like it
+
+Use machine learning to make a character that reacts to your feedback!
+
+Explore this project [here](rpf.io/dyli){:target="_blank"}.
+
+--- /task ---
