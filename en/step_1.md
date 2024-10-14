@@ -144,6 +144,6 @@ Explore this project [here](https://rpf.io/doodle){:target="_blank"}.
 
 Use machine learning to make a character that will determine whether you liked or disliked a movie or book based on what you say.
 
-Explore this project [here](rhttps://pf.io/dyli){:target="_blank"}.
+Explore this project [here](https://rpf.io/dyli){:target="_blank"}.
 
 --- /task ---
